@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Senators Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button id="menuToggle" class="menu-toggle" aria-label="Toggle menu">
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+            </button>
+        </header>
+
+        <div id="menuDropdown" class="menu-dropdown hidden">
+            <button id="alphabeticalBtn" class="menu-btn">Alphabetical Order</button>
+            <button id="randomBtn" class="menu-btn">Random Order</button>
+            <button id="restartBtn" class="menu-btn">Restart Session</button>
+        </div>
+
+        <div class="progress-section">
+            <div class="progress-bar-container">
+                <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <div id="progressText" class="progress-text">0 / 0</div>
+        </div>
+
+        <div class="score-section">
+            <div class="score-item">
+                <span class="score-label">Correct:</span>
+                <span id="correctCount" class="score-value">0</span>
+            </div>
+            <div class="score-item">
+                <span class="score-label">Incorrect:</span>
+                <span id="incorrectCount" class="score-value">0</span>
+            </div>
+        </div>
+
+        <div class="flashcard-container">
+            <div id="flashcard" class="flashcard">
+                <div class="flashcard-front">
+                    <div id="frontContent" class="card-content">
+                        <h2 id="stateName">State</h2>
+                        <p id="electionYear" class="year">(Year)</p>
+                    </div>
+                </div>
+                <div class="flashcard-back">
+                    <div id="backContent" class="card-content">
+                        <img id="senatorImage" src="" alt="Senator" class="senator-image">
+                        <h2 id="senatorName">Name</h2>
+                        <p id="senatorParty" class="party">Party</p>
+                        <div id="funFactsList" class="fun-facts">
+                            <h3>Fun Facts:</h3>
+                            <ul id="factsContainer"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="action-buttons">
+            <button id="flipBtn" class="action-btn flip-btn">Flip Card</button>
+        </div>
+
+        <div class="answer-buttons">
+            <button id="incorrectBtn" class="answer-btn incorrect-btn">Incorrect</button>
+            <button id="correctBtn" class="answer-btn correct-btn">Correct</button>
+        </div>
+
+        <div class="navigation">
+            <button id="prevBtn" class="nav-btn">&larr; Previous</button>
+            <span id="cardPosition" class="card-position">1 / 1</span>
+            <button id="nextBtn" class="nav-btn">Next &rarr;</button>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
