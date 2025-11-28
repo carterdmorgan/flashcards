@@ -21,9 +21,9 @@ const senatorsData = [
         "state": "Alabama",
         "electionYear": 2028,
         "party": "Republican",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tommy_tuberville.jpg/960px-Tommy_tuberville.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Katie_Britt.jpg/500px-Katie_Britt.jpg",
         "funFacts": [
-            "Former head football coach at Auburn University"
+            "Chief of Staff to Richard Shelby, the previous senator"
         ]
     }
 ];

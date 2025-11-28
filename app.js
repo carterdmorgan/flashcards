@@ -301,6 +301,7 @@ function toggleMenu() {
 // Event Listeners
 menuToggle.addEventListener('click', toggleMenu);
 flipBtn.addEventListener('click', flipCard);
+flashcard.addEventListener('click', flipCard);
 correctBtn.addEventListener('click', () => markAnswer('correct'));
 incorrectBtn.addEventListener('click', () => markAnswer('incorrect'));
 prevBtn.addEventListener('click', goToPreviousCard);
