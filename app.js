@@ -197,6 +197,11 @@ function markAnswer(answer) {
     updateAnswerButtons();
     updateUI();
     saveSession();
+
+    // Automatically go to next card after a short delay
+    setTimeout(() => {
+        goToNextCard();
+    }, 300);
 }
 
 // Navigate to previous card

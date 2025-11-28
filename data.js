@@ -7,7 +7,13 @@ const senatorsData = [
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tommy_tuberville.jpg/960px-Tommy_tuberville.jpg",
         "funFacts": [
-            "Former head football coach at Auburn University"
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
+            "Former head football coach at Auburn University",
         ]
     },
     {
