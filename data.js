@@ -89,7 +89,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Alex_Padilla_117th_Congress_portrait_%283%29_%28crop%29.jpg/250px-Alex_Padilla_117th_Congress_portrait_%283%29_%28crop%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Replacement for Kamala Harris, who was elected to the Vice Presidency"
+        ]
     },
     {
         "name": "Adam Schiff",
@@ -97,7 +99,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Schiff_Adam_119th_Congress_%28close_crop%29.jpg/250px-Schiff_Adam_119th_Congress_%28close_crop%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Served as the lead impeachment manager for the Trump's first impeachment"
+        ]
     },
     {
         "name": "Michael Bennet",
@@ -105,7 +109,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Senator_Mike_Bennett_%284x5_crop%29.jpg/250px-Senator_Mike_Bennett_%284x5_crop%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Ran for President in 2020"
+        ]
     },
     {
         "name": "John Hickenlooper",
@@ -113,7 +119,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/John_Hickenlooper%2C_official_portrait%2C_117th_Congress_%284x5_crop%29.jpeg/250px-John_Hickenlooper%2C_official_portrait%2C_117th_Congress_%284x5_crop%29.jpeg",
-        "funFacts": []
+        "funFacts": [
+            "Former Governor of Colorado"
+        ]
     },
     {
         "name": "Richard Blumenthal",
@@ -153,7 +161,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg/250px-Official_Portrait_of_Senator_Rick_Scott_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Former Governor of Florida"
+        ]
     },
     {
         "name": "Ashley Moody",
@@ -169,7 +179,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jon_Ossoff_Senate_Portrait_2021_%28cropped%29.jpg/250px-Jon_Ossoff_Senate_Portrait_2021_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "First millennial senator to be elected to the US Senate"
+        ]
     },
     {
         "name": "Raphael Warnock",
@@ -177,7 +189,10 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Raphael_Warnock_official_photo_%284x5_crop%29.jpg/250px-Raphael_Warnock_official_photo_%284x5_crop%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Pastor of the historic Ebenezer Baptist Church in Atlanta, Georgia",
+            "Had the good fortune to run against Herschel Walker"
+        ]
     },
     {
         "name": "Brian Schatz",
@@ -225,7 +240,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tammy_Duckworth_115th_official_portrait_%28cropped%29.jpg/250px-Tammy_Duckworth_115th_official_portrait_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Amputated her legs during the Iraq War"
+        ]
     },
     {
         "name": "Todd Young",
@@ -249,7 +266,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chuck_Grassley_official_photo_2017_%28cropped%29.jpg/250px-Chuck_Grassley_official_photo_2017_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Has been elected to some sort of office in Iowa for more than half the state's existence"
+        ]
     },
     {
         "name": "Joni Ernst",
@@ -281,7 +300,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitch_McConnell_117th_Congress_photo_%28cropped%29.jpg/250px-Mitch_McConnell_117th_Congress_photo_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Former senate majority leader"
+        ]
     },
     {
         "name": "Rand Paul",
@@ -289,7 +310,10 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Rand_Paul%2C_official_portrait%2C_112th_Congress_alternate_%28cropped%29.jpg/250px-Rand_Paul%2C_official_portrait%2C_112th_Congress_alternate_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Ran for President in 2016",
+            "Son of Ron Paul, a representative from Texas who ran for President in 2012"
+        ]
     },
     {
         "name": "Bill Cassidy",
@@ -345,7 +369,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elizabeth_Warren--2016_Official_Portrait--%28cropped%29_%28cropped%29.jpg/250px-Elizabeth_Warren--2016_Official_Portrait--%28cropped%29_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Former professor at Harvard"
+        ]
     },
     {
         "name": "Ed Markey",
@@ -377,7 +403,10 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amy_Klobuchar%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg/250px-Amy_Klobuchar%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Was on Biden's shortlist for a Vice Presidential candidate in 2020",
+            "Funny story about her getting mad at her aides for not bringing her a fork with her salad so she ate it with a comb"
+        ]
     },
     {
         "name": "Tina Smith",
@@ -489,7 +518,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cory_Booker%2C_official_portrait_%28119th_Congress%29_%28cropped%29.jpg/250px-Cory_Booker%2C_official_portrait_%28119th_Congress%29_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Former Mayor of Newark, New Jersey"
+        ]
     },
     {
         "name": "Andy Kim",
@@ -521,7 +552,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chuck_Schumer_official_photo_%28cropped%29.jpg/250px-Chuck_Schumer_official_photo_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Senate Minority Leader"
+        ]
     },
     {
         "name": "Kirsten Gillibrand",
@@ -593,7 +626,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Markwayne_Mullin_official_Senate_photo_%28cropped%29.jpg/250px-Markwayne_Mullin_official_Senate_photo_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Only person in the senate without at least a bachelor's degree"
+        ]
     },
     {
         "name": "Ron Wyden",
@@ -649,7 +684,9 @@ const senatorsData = [
         "electionYear": 2026,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%28cropped%29.jpg/250px-U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Close personal friend of John McCain"
+        ]
     },
     {
         "name": "Tim Scott",
@@ -657,7 +694,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tim_Scott_official_portrait.jpg/250px-Tim_Scott_official_portrait.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Appointed to the Senate by Nikki Haley after Jim DeMint resigned"
+        ]
     },
     {
         "name": "John Thune",
@@ -705,7 +744,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ted_Cruz_official_116th_portrait_%28cropped%29.jpg/250px-Ted_Cruz_official_116th_portrait_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Ran for President in 2016"
+        ]
     },
     {
         "name": "Mike Lee",
@@ -713,7 +754,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mike_Lee%2C_official_portrait_%284x5_crop%29.jpg/250px-Mike_Lee%2C_official_portrait_%284x5_crop%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Elected in 2010 by unseating Bob Bennett at the controversional convention in the Tea Party wave"
+        ]
     },
     {
         "name": "John Curtis",
@@ -721,7 +764,10 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Senator_John_Curtis_Official_Portrait_%28cropped%29.jpg/250px-Senator_John_Curtis_Official_Portrait_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Former mayor of Provo, Utah",
+            "Former representative from Utah's 3rd congressional district"
+        ]
     },
     {
         "name": "Bernie Sanders",
@@ -729,7 +775,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Independent",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bernie_Sanders_2023_%28cropped%29.jpg/250px-Bernie_Sanders_2023_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Ran for President in 2016 and 2020",
+        ]
     },
     {
         "name": "Peter Welch",
@@ -737,7 +785,9 @@ const senatorsData = [
         "electionYear": 2028,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Peter_Welch_official_Senate_photo_%28cropped%29.jpg/250px-Peter_Welch_official_Senate_photo_%28cropped%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Has appeared as a cameo in four different Batman movies"
+        ]
     },
     {
         "name": "Mark Warner",
@@ -753,7 +803,9 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Democrat",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tim_Kaine%2C_official_portrait_%28119th_Congress%29_%28cropped_2%29.jpg/250px-Tim_Kaine%2C_official_portrait_%28119th_Congress%29_%28cropped_2%29.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Hillary Clinton's running mate in 2016"
+        ]
     },
     {
         "name": "Patty Murray",
@@ -785,7 +837,10 @@ const senatorsData = [
         "electionYear": 2030,
         "party": "Republican",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Senator_Jim_Justice_Official_Portrait_with_flags.jpg/250px-Senator_Jim_Justice_Official_Portrait_with_flags.jpg",
-        "funFacts": []
+        "funFacts": [
+            "Elected as a Democrat during his gubernatorial campaign in 2016, but then switched to the Republican Party",
+            "Has a bulldog named Babydog that he brings almost everywhere"
+        ]
     },
     {
         "name": "Ron Johnson",
