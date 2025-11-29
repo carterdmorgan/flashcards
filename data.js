@@ -63,23 +63,24 @@ const senatorsData = [
         ]
     },
     {
-        "name": "test",
-        "state": "test",
-        "electionYear": 2000,
-        "party": "test",
-        "image": "test",
+        "name": "John Boozman",
+        "state": "Arkansas",
+        "electionYear": 2028,
+        "party": "Republican",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Senator_John_Boozman_Official_Portrait_%28115th_Congress%29_%28cropped%29.jpg/250px-Senator_John_Boozman_Official_Portrait_%28115th_Congress%29_%28cropped%29.jpg",
         "funFacts": [
-            "test"
+            "Only the second Republican to be elected to the US Senate from Arkansas since Reconstruction",
+            "Played football for University of Arkansas"
         ]
     },
     {
-        "name": "test",
-        "state": "test",
-        "electionYear": 2000,
-        "party": "test",
-        "image": "test",
+        "name": "Tom Cotton",
+        "state": "Arkansas",
+        "electionYear": 2026,
+        "party": "Republican",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tom_Cotton_official_Senate_photo_%28cropped%29.jpg/250px-Tom_Cotton_official_Senate_photo_%28cropped%29.jpg",
         "funFacts": [
-            "test"
+            "Received major backlash in 2020 for his NYT Op ed Send In The Troops"
         ]
     },
     {
